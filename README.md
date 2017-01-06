@@ -24,3 +24,6 @@ Business experts need to first ask themselves these questions:
 
 Premature application of big data techniques, either without requisite expertise or without the knowledge of the business case to be solved, will result in the waste of human and capital resources.
 
+
+# Resources
+http://sparkbigdata.com/
