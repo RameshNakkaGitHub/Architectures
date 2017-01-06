@@ -1,5 +1,5 @@
 # Architectures
-[visit Big Data Architectures](/Architecture/Wiki)
+[visit Big Data Architectures](https://github.com/sambos/Architecture/wiki)
 
 ### Word on Big Data and Maching Learning
 [ref](http://linkis.com/QP1K8)
