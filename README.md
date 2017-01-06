@@ -2,8 +2,8 @@
 [visit Big Data Architectures](https://github.com/sambos/Architecture/wiki)
 
 ### Big Picture
-Love the picture, interesting ....   
-[Big Data Landscape](http://mattturck.com/2016/02/01/big-data-landscape/)
+[Big Data Landscape](http://mattturck.com/2016/02/01/big-data-landscape/) - Love the picture, interesting ....   
+
 
 ### Word on Big Data and Maching Learning
 [ref](http://linkis.com/QP1K8)
