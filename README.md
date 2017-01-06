@@ -8,7 +8,7 @@
 ### Powerful Search Engines
 * Elastic Search
 * Solr
-* ELK (now called Elastic Stack) - combination of ElasticSearch with Logstash and Kibana - This provides a powerful platform for indexing, searching and analyzing data.
+* [ELK](https://www.elastic.co/videos/introduction-to-the-elk-stack) (now called Elastic Stack) - combination of ElasticSearch with Logstash and Kibana - This provides a powerful platform for indexing, searching and analyzing data.
 
 ### Word on Big Data and Maching Learning
 [ref](http://linkis.com/QP1K8)
