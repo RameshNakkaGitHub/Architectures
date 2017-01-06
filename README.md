@@ -1,6 +1,10 @@
 # Architectures
 [visit Big Data Architectures](https://github.com/sambos/Architecture/wiki)
 
+### Big Picture
+Love the picture, interesting ....   
+[Big Data Landscape](http://mattturck.com/2016/02/01/big-data-landscape/)
+
 ### Word on Big Data and Maching Learning
 [ref](http://linkis.com/QP1K8)
 
@@ -19,3 +23,4 @@ Business experts need to first ask themselves these questions:
 * What insights do we need from the big data?
 
 Premature application of big data techniques, either without requisite expertise or without the knowledge of the business case to be solved, will result in the waste of human and capital resources.
+
