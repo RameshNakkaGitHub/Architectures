@@ -4,6 +4,11 @@
 ### Big Picture
 [Big Data Landscape](http://mattturck.com/2016/02/01/big-data-landscape/) - Love the picture, interesting ....   
 
+### Machine Learning
+### Powerful Search Engines
+* Elastic Search
+* Solr
+* ELK - combination of ElasticSearch with Logstash and Kibana
 
 ### Word on Big Data and Maching Learning
 [ref](http://linkis.com/QP1K8)
