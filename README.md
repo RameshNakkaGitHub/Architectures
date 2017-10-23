@@ -1,6 +1,6 @@
 # Architectures
 * [visit Big Data Architectures](https://github.com/sambos/Architecture/wiki)
-* [Apache Solr Performance Analysis Guidance](solr-tuning.md)
+* [Apache Solr Performance Tuning Guidance](solr-tuning.md)
 
 ### Big Picture
 [Big Data Landscape](http://mattturck.com/2016/02/01/big-data-landscape/) - Love the picture, interesting ....   
