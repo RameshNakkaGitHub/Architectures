@@ -5,7 +5,10 @@
 ### Big Picture
 [Big Data Landscape](http://mattturck.com/wp-content/uploads/2016/03/Big-Data-Landscape-2016-v18-FINAL.png) - Love the picture, interesting ....   
 
-### Machine Learning
+### Machine Learning & AI
+The combination of Big Data and AI will drive incredible innovation across pretty much every industry.
+
+
 ### Powerful Search Engines
 * Elastic Search
 * Solr
