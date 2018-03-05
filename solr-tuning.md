@@ -1,4 +1,4 @@
-# Solr Performance Analysis
-https://dzone.com/articles/apache-solr-memory-tuning-for-production
+# Solr Things to Know
+* https://github.com/sambos/Apache-Solr
+* https://dzone.com/articles/apache-solr-memory-tuning-for-production
 
-more on this soon...
