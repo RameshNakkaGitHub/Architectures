@@ -15,3 +15,5 @@ The combination of Big Data and AI will drive incredible innovation across prett
 * [ELK](https://www.elastic.co/videos/introduction-to-the-elk-stack) (now called Elastic Stack) - combination of ElasticSearch with Logstash and Kibana - This provides a powerful platform for indexing, searching and analyzing data.
 * DSE - DataStax Search Engine (Built on Cassandra and Solr) - [Difference between DSE and Solr](https://docs.datastax.com/en/dse/5.1/dse-admin/datastax_enterprise/search/searchOssSolrDiff.html?hl=dse%2Csolr)
 
+### Reactive Programming
+Where Everything is a stream of requests and responses. Very good article for understanding the concepts : https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
