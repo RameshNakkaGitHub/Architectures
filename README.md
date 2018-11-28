@@ -13,6 +13,7 @@ The combination of Big Data and AI will drive incredible innovation across prett
 * Elastic Search
 * Solr
 * [ELK](https://www.elastic.co/videos/introduction-to-the-elk-stack) (now called Elastic Stack) - combination of ElasticSearch with Logstash and Kibana - This provides a powerful platform for indexing, searching and analyzing data.
+* EFK - ElasticSearch with FluentD and Kibana
 * DSE - DataStax Search Engine (Built on Cassandra and Solr) - [Difference between DSE and Solr](https://docs.datastax.com/en/dse/5.1/dse-admin/datastax_enterprise/search/searchOssSolrDiff.html?hl=dse%2Csolr)
 * ELASSANDRA - combinartion of Elastic Search and Cassandra NoSQL DB
 
